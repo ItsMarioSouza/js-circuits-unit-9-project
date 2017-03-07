@@ -122,7 +122,6 @@ img {
 	background-color: #0b3489;
 }
 
-
 .reservations__existing-reservation table {
 	width: 100%
 }
@@ -210,6 +209,7 @@ img {
 		padding-left: 4em;
 	}
 } /* /@media screen and (min-width: 768px) */
+
 
 
 /* ————————————––––––––––––––––––––––––––––
